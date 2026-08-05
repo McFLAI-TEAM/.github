@@ -1,4 +1,3 @@
-# .github
 # Crafting Tomorrow
 
 **Curriculum intelligence for a changing world.**
